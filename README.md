@@ -1,1 +1,2 @@
 # imcrop
+Image cropping application
